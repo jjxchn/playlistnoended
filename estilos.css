@@ -1,0 +1,17 @@
+body {
+    background-image: url('');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.playlist{
+    background-color: rgba(0, 0, 0, 0.555);
+    padding: 8px;
+    border: rgb(0, 0, 0) 2px;
+}
+.playlist td{
+    border-width: rgb(0, 0, 0) solid 5px;
+    padding: 7px;
+    border-left: 5px; color: black;
+}
