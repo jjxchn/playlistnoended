@@ -1,17 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&family=UnifrakturMaguntia&display=swap');
 body {
-    background-image: url('');
+    background-image: url('fotos/3GNIZl.png');
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
-.playlist{
+.playlist {
     background-color: rgba(0, 0, 0, 0.555);
     padding: 8px;
     border: rgb(0, 0, 0) 2px;
+    margin-left: 10px;
+    color: rgb(185, 185, 185);
+    font-family: 'Antic Didone', serif;
 }
-.playlist td{
+.playlist td {
     border-width: rgb(0, 0, 0) solid 5px;
-    padding: 7px;
     border-left: 5px; color: black;
+    color: rgb(185, 185, 185);;
+    font-family: 'Antic Didone', serif;
+    padding: 20px;
+    padding-left: 30px;
+}
+main {
+    background-color: rgba(0, 0, 0, 0.301);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    font-family: 'UnifrakturMaguntia', cursive;
+    color: rgb(185, 185, 185);
+}
+body {
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-top: 0px;
+ color: rgb(185, 185, 185);
+ font-family: 'Antic Didone', serif;
+}
+table{
+    padding-left: 10px;
+}
+p {
+    margin-top: 50px;
+    padding-left: 10px;
+}
+.album-cover {
+    height: px;
+    width: px;
 }
