@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Antic+Didone&family=UnifrakturMaguntia&display=swap');
 body {
-    background-image: url('fotos/3GNIZl.png');
+    background-image: url('fotos/3GNIZl.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -44,8 +44,13 @@ table{
 p {
     margin-top: 50px;
     padding-left: 10px;
+    font-family: 'Antic Didone', serif;
 }
 .album-cover {
-    height: px;
-    width: px;
+    height: 80px;
+    width: 80px;
 }
+a {
+    color: rgb(185, 185, 185);
+}
+
